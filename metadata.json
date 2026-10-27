@@ -1,0 +1,6 @@
+{
+  "name": "EventPass - Web3 Anti-Fraud Event Check-in & SBT Certification",
+  "description": "Nền tảng quản lý vé, đăng ký sự kiện trực tuyến, check-in chống gian lận bằng ví Web3 và phát hành chứng nhận Soulbound Token (SBT) vĩnh viễn trên blockchain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
